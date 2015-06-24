@@ -1,0 +1,10 @@
+{
+    "name":         "jquery.grids",
+    "version":      "0.0.1",
+    "dependencies": {
+        "javascript-equal-height-responsive-rows": "*"
+    },
+    "main":         [
+        "jquery.grids.js"
+    ]
+}
